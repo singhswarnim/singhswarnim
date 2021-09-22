@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @singhswarnim
+- 👋 Hi, I’m Swarnim Singh
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML5, CSS, JS, React
 - 💞️ I’m looking to collaborate on Opensource project
